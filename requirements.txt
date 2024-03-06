@@ -5,7 +5,7 @@ charset-normalizer==3.3.2
 cryptography==41.0.7
 Deprecated==1.2.14
 idna==3.6
-jwcrypto==1.5.0
+jwcrypto==1.5.6
 packaging==23.2
 pycparser==2.21
 pyinstaller==6.2.0
