@@ -13,5 +13,5 @@ pyinstaller-hooks-contrib==2023.10
 PySimpleGUI==4.60.5
 requests==2.31.0
 setuptools==69.0.2
-urllib3==2.1.0
+urllib3==2.2.3
 wrapt==1.16.0
