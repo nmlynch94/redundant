@@ -10,7 +10,7 @@ packaging==23.2
 pycparser==2.21
 pyinstaller==6.2.0
 pyinstaller-hooks-contrib==2023.10
-PySimpleGUI==4.60.5
+PySimpleGUI==5.0.7
 requests==2.31.0
 setuptools==69.0.2
 urllib3==2.1.0
