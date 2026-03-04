@@ -1,4 +1,4 @@
-altgraph==0.17.4
+altgraph==0.17.5
 certifi==2023.11.17
 cffi==1.16.0
 charset-normalizer==3.3.2
